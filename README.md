@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi homo sapiens!
+
+I like Python, Java and C++ and SQL....
